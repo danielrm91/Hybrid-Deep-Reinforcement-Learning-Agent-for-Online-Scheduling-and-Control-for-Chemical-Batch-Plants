@@ -1,7 +1,6 @@
 '''
-this file is based on the work on 
-https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8
-without some functions that are not convenient for the purpose
+This work was partially based on code available at [https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8], 
+which was modified to suit the needs of this project.
 '''
 
 import gym
